@@ -219,3 +219,5 @@ __marimo__/
 
 # Ignora qualquer arquivo .zip em qualquer lugar do projeto
 *.zip
+# Projeto: dataset do Kaggle (licença não informada; baixado na 1ª execução)
+notebooks/dados/solarenergy.csv
